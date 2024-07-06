@@ -14,6 +14,7 @@ namespace EjemploControles
     {
         public frmPrincipal()
         {
+            //Comentando
             InitializeComponent();
         }
 
